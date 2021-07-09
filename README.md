@@ -4,11 +4,11 @@
        /    .-""-\   _/ \      I love challenges and learning new things.  Drivin by problem-solving and Coffee!       
      .-|   /:.   |  |   |
      |  \  |:.   /.-'-./       - 🔭 I’m currently working on Story Squad
-     | .-'-;:__.'    =/        - 🌱 I’m currently learning node,react,python,docker
+     | .-'-;:__.'    =/        - 🌱 Actively studying Python, Javascript
      .'=  *=|.    _.='         - 📫 How to reach me: andrewpoppenberg@yahoo.com
      /   _.  |    ;
     ;-.-'|    \   |
-    /   | \    _\  _\
+    /   | \    _\  _\          
     \__/'._;.  ==' ==\
          \    \   |
          /    /   /
