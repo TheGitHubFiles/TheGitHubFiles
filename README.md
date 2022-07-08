@@ -6,16 +6,15 @@
      .-|   /:.   |  |   |
      |  \  |:.   /.-'-./       - 🔭 I’m currently working at Massey Emergency Management
      | .-'-;:__.'    =/        - 🌱 Actively studying Python, Javascript
-     .'=  *=|.    _.='         - 📫 How to reach me: andrewpoppenberg@yahoo.com
+    .'=  *=|.    _.='         - 📫 How to reach me: andrewpoppenberg@yahoo.com
      /   _.  |    ;
-    ;-.-'|    \   |
-   /   | \    _\  _\          
-   \__/'._;.  ==' ==\
+     ;-.-'|    \   |
+    /   | \    _\  _\          
+    \__/'._;.  ==' ==\
            \    \   |
           /    /   /
          /-._/-._/
          \   `\  \
           `-._/._/
 
-###
     
